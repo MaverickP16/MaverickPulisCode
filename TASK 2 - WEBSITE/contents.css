@@ -1,0 +1,17 @@
+.table {
+    border-spacing: 50px;
+    margin-left: -210px;
+}
+
+.smaller-image1 {
+    width: 440px; height: 760px;
+}
+
+.smaller-image2 {
+    width: 440px; height: 440px;
+}
+
+.table-2 {
+    border-spacing: 50px;
+    margin-left: -70px;
+}
